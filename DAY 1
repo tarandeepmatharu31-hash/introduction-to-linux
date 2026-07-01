@@ -1,0 +1,50 @@
+INTRODUCTION TO LINUX:
+QUESTION 1. WHAT IS OPERATING SYSTEM?
+ANSWER 1. An operating system is system software that manages CPU, memory, storage, input/output devices, files, and processes while providing an execution environment for applications.
+Key Functions:
+1. Process management
+2. Memory management
+3. File system management
+4. Device (I/O) management
+5. Security and user management
+6. Resource allocation
+7. Examples: Linux, Microsoft Windows, macOS, Android.
+
+QUESTION 2. DIFFERENCE BETWEEN LINUX,UNIX AND MAC?
+ANSWER 2. LINUX: Linux is a free, open-source, Unix-like operating system based on the Linux kernel. It manages computer hardware and provides a platform for running applications.
+Key Features
+1. Open-source and free to use.
+2. Multiuser operating system.
+3. Multitasking operating system.
+4. Secure and stable.
+5. Portable and highly customizable
+UNIX: UNIX is a multiuser, multitasking operating system originally developed for reliability, portability, and efficient resource management. It is widely used in enterprise and mission-critical systems.
+Key Features
+1. Multiuser operating system.
+2. Multitasking operating system.
+3. High stability and reliability.
+4. Strong security features.
+5. Portable across supported hardware platforms.
+MACOS: macOS is a proprietary, Unix-based operating system developed by Apple for Mac computers. It provides a secure, stable, and user-friendly environment for running applications.
+Key Features
+1. Unix-based operating system.
+2. Proprietary software developed by Apple.
+3. Uses the XNU hybrid kernel.
+4. Secure and stable.
+5. Optimized for Apple hardware.
+
+QUESTION 3. WHAT IS VIRTUAL BOX?
+VirtualBox is a Type-2 (hosted) hypervisor developed by Oracle that enables multiple guest operating systems to run simultaneously on a single host operating system using hardware virtualization.
+Key Features
+1. Supports multiple guest operating systems (Windows, Linux, macOS*).
+2. Uses hardware virtualization (Intel VT-x/AMD-V).
+3. Provides virtual CPU, RAM, storage, and network devices.
+4. Supports snapshots and virtual disk management.
+5. Cross-platform (Windows, Linux, macOS hosts).
+
+QUESTION 4. WHAT IS VMware?
+1. VMware is a virtualization software (hypervisor) used to run multiple operating systems on a single physical machine.
+2. It is developed by VMware.
+3. It works as a Type-2 hypervisor (hosted) in desktop versions like VMware Workstation.
+4. Uses hardware virtualization technologies like Intel VT-x / AMD-V.
+5. Allows creation of virtual machines (VMs) with separate CPU, RAM, disk, and network.
