@@ -1,0 +1,14 @@
+DAY-2
+INTROPDUCTION TO BASH AND SHELL
+SHELL:A shell is a command-line interpreter that provides an interface between the user and the operating system.
+Bash (Bourne Again SHell) is a specific shell and is the default shell on many Linux distributions.
+
+BASIC FILE OPERATIONS:
+PWD-Print current directory
+IS- List files
+Mkdir-create dictionary
+cp-copy files
+cat-display file contents
+chmod-file operations
+chown-changes the ownership
+
