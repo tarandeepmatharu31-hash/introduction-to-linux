@@ -1,0 +1,54 @@
+IN DAY 4 
+We are discussing about troubleshooting(common PC Boot issues and their solutions)
+diagnosing hardware problems
+
+Basic Troubleshooting Steps
+
+1.Check power connections.
+2.Disconnect unnecessary external devices.
+3.Restart the computer.
+4.Check BIOS/UEFI settings.
+5.Test RAM and storage devices.
+6.Use system recovery tools.
+7.Seek hardware repair if the problem continues.
+
+BOOT ISSUES:
+1.PC does not turn on
+2.PC turns on but no display
+3.Computer shows a black screen after startup
+4.No Boot Device Found
+5.Operating system fails to load
+6.PC keeps restarting (boot loop)
+7.Slow boot time
+8.Blue Screen of Death (BSOD) during startup
+
+SOLUTIONS:
+1.Check power cable, power switch, and connections; test the power supply
+2.Check monitor connection, reseat RAM, check graphics card
+3.Restart, check display cables, try Safe Mode, update drivers
+4.Check BIOS boot settings, reconnect drive, check storage health
+5.Use recovery tools, repair startup files, reinstall OS if needed
+6.Check cooling, remove recent software changes, run hardware tests
+7.Disable unnecessary startup apps, clean storage, upgrade hardware
+8.Boot into Safe Mode, update drivers, check RAM and system files
+
+Diagnosing hardware problems involves identifying, testing, and fixing faults in a computer’s physical components such as the
+CPU, RAM, storage devices, motherboard, power supply, and peripherals.
+
+RAM (Memory):
+Symptoms: crashes, freezing, blue screen errors.
+Test using memory diagnostic tools.
+Reseat or replace faulty RAM modules.
+
+
+Hard Drive/SSD:
+Symptoms: slow performance, missing files, boot failures.
+Check drive health using disk diagnostic software.
+Replace failing drives and back up important data.
+
+Graphics Card:
+
+Symptoms: no display, screen artifacts, crashes during gaming.
+Check connections and test with another display or graphics card.
+
+
